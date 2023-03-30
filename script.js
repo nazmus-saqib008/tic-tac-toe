@@ -1,7 +1,7 @@
 console.log("welcome to tic tac toe");
-let musicBG= new Audio("tictactoe/music.mp3");
-let turnAudio= new Audio("tictactoe/ting.mp3");
-let gameOverAudio= new Audio("tictactoe/gameover.mp3");
+let musicBG= new Audio("music.mp3");
+let turnAudio= new Audio("ting.mp3");
+// let gameOverAudio= new Audio("tictactoe/gameover.mp3");
 let turn= "X";
 
 // musicBG.play();
